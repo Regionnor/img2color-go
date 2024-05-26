@@ -32,7 +32,7 @@ go run /api/img2color.go
 
 ## 使用
 
-例如：https://img2color-go.vercel.app/api?img=https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/banner/神里.webp
+例如：https://img-color.393837.xyz/api?img=https://www.t5a.com/wp-content/uploads/2014/03/gravatar.png
 
 部署后只需要 域名/api 访问
 
